@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 11", "image": "https://image.coolblue.io/products/188112?height=390&width=422", "price": "50" },
+    { "id": 1, "title": "Post 99", "image": "https://image.coolblue.io/products/188112?height=390&width=422", "price": "50" },
     { "id": 2, "title": "Post 22", "image": "https://image.coolblue.io/products/457910?height=390&width=422", "price": "20" },
     { "id": 3, "title": "Post 33", "image": "https://image.coolblue.io/products/222202?height=390&width=422", "price": "10" }
   ],
